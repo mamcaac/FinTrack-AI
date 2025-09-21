@@ -1,0 +1,7 @@
+
+body { font-family: Arial, sans-serif; }
+.dashboard { padding: 20px; }
+.button { background: #4CAF50; color: white; padding: 10px; border: none; cursor: pointer; }
+.button:hover { background: #45a049; }
+.list { list-style: none; }
+.chart { width: 400px; height: 300px; }

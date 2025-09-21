@@ -1,0 +1,24 @@
+version: '3'
+services:
+  client:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.client
+    ports:
+      - "3000:3000"
+  server:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.server
+    ports:
+      - "5000:5000"
+    volumes:
+      - ../data:/app/data
+    environment:
+      - DB_PATH=/app/data/transactions.db
+  ml:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.ml
+    volumes:
+      - ../data:/app/data
