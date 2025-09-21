@@ -2,9 +2,11 @@
 
 FinTrack-AI is a web-based application I built to track personal expenses, simulate payments, and gain intelligent insights from transaction data. It's a full-stack project combining modern frontend, backend with functional programming, simple machine learning for anomaly detection, and containerized deployment.
 
+---
 ## Motivation
 As a beginner in software development, I wanted to experiment with building a finance app that handles user interactions smoothly, processes data logically, analyzes patterns, and runs reliably. This project helped me learn React for UI, Node.js with FP patterns for backend, Python ML for insights, and Docker for infra.
 
+---
 ## Features
 - **Dashboard UI**: Clean interface for logging transactions and 1-click simulated payments.
 - **Payment Simulation**: Mock UPI/card payments with validation and auth.
@@ -12,6 +14,7 @@ As a beginner in software development, I wanted to experiment with building a fi
 - **AI Insights**: Detect anomalies in spending, suggest optimal "payment routes" based on history, and visualize data.
 - **Reliable Setup**: Dockerized for easy deployment, with basic error handling.
 
+---
 ## Tech Stack
 - **Frontend**: React (with Hooks for state management)
 - **Backend**: Node.js, Express, SQLite (via Sequelize), Ramda for functional programming in business logic
@@ -19,6 +22,11 @@ As a beginner in software development, I wanted to experiment with building a fi
 - **Infra**: Docker, Docker Compose
 - **Other**: JWT for auth, Axios for API calls
 
+---
+## Porject Structure
+- [View](https://github.com/AmSh4/NexPay/blob/main/Folder%20Structure.md)
+
+---
 ## Setup and Running Locally
 1. **Clone the repo**: `git clone https://github.com/AmSh4/FinTrack-AI.git`
 2. **Frontend (client folder)**:
@@ -41,16 +49,22 @@ As a beginner in software development, I wanted to experiment with building a fi
    - `docker-compose up --build`
    - Access at http://localhost:3000 (frontend connects to backend at 5000)
 
+---
 ## Usage
 - Register/login via API (mock auth).
 - Add transactions via dashboard.
 - Simulate payments with 1-click.
 - Run ML scripts for anomaly reports and viz in console/output files.
 
+---
 ## Future Improvements
 - Integrate real payment APIs.
 - Advanced ML models.
 - Cloud deployment.
 
+---
 ## License
+
 MIT License
+
+---
