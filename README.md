@@ -24,7 +24,7 @@ As a beginner in software development, I wanted to experiment with building a fi
 
 ---
 ## Porject Structure
-- [View](https://github.com/AmSh4/FinTrack-AI/blob/main/Folder%20Structure.md)
+- [View](https://github.com/AmSh4/FinTrack-AI/blob/main/Structure.md)
 
 ---
 ## Setup and Running Locally
@@ -68,4 +68,5 @@ As a beginner in software development, I wanted to experiment with building a fi
 MIT License
 
 ---
+
 
